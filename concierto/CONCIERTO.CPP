@@ -43,7 +43,7 @@ int main() {
      total = precio * cantidad;
     cout << "El total a pagar es: $" << total << endl;
 
-    if (ubicacion == 4) {
+    if (ubicacion == 4) { //QUE SIGNIFICA ESTA LINEA DE CODIGO
         cout << "Bebida seleccionada: " << bebida << endl;
     }
 
