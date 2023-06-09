@@ -44,6 +44,8 @@ int main() {
     cout << "El total a pagar es: $" << total << endl;
 
     if (ubicacion == 4) { //QUE SIGNIFICA ESTA LINEA DE CODIGO
+      //if es una condición
+      //(ubicacion ==4)se utiliza para comprobar los valores
         cout << "Bebida seleccionada: " << bebida << endl;
     }
 
