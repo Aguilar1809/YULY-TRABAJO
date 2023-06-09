@@ -15,7 +15,12 @@ cout << " pulgadas " << pulgadas << endl;
 cout << " yardas " << yardas << endl;
 cout << " centimetros " << centimetros << endl;
 cout << " metros " << metros << endl;
+cout <<"introdusca centimetros:  \n ";
+cin >> centimetros;
 
+pies = centimetros / 30.48;
+
+cout << "pies:" << pies <<endl;
 
 return 0;
 
